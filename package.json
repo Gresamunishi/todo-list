@@ -1,0 +1,22 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "Todo list web application with mongoDB and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gresamunishi/todo-list.git"
+  },
+  "author": "Gresa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gresamunishi/todo-list/issues"
+  },
+  "homepage": "https://github.com/Gresamunishi/todo-list#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
